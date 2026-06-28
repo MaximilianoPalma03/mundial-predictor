@@ -14,7 +14,7 @@ date,home_team,away_team,home_score,away_score,resultado,pred_logistica,pred_rf,
 2026-06-15,Belgium,Egypt,1.0,1.0,draw,home_win,home_win,False,False
 2026-06-15,Iran,New Zealand,2.0,2.0,draw,home_win,home_win,False,False
 2026-06-15,Spain,Cape Verde,0.0,0.0,draw,home_win,home_win,False,False
-2026-06-15,Saudi Arabia,Uruguay,1.0,1.0,draw,draw,draw,True,True
+2026-06-15,Saudi Arabia,Uruguay,1.0,1.0,draw,draw,home_win,True,False
 2026-06-16,France,Senegal,3.0,1.0,home_win,home_win,home_win,True,True
 2026-06-16,Iraq,Norway,1.0,4.0,away_win,away_win,away_win,True,True
 2026-06-16,Argentina,Algeria,3.0,0.0,home_win,home_win,home_win,True,True
