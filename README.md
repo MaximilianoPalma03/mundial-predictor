@@ -1,7 +1,9 @@
 # Mundial Predictor 2026 ⚽
 
 Modelo de Machine Learning para predecir resultados (Victoria/Empate/Derrota) de partidos de fútbol internacional, con seguimiento en vivo durante el Mundial 2026.
-
+> Clasificación (Random Forest · Regresión Logística)
+> 49.000+ partidos históricos y validado en vivo durante el Mundial 2026. 
+> Accuracy: 68.75% en fase de grupos.
 ## Motivación
 
 Proyecto de portfolio para practicar el rol de Data Analyst / Data Scientist: ETL de un dataset histórico de 49.000+ partidos, feature engineering futbolístico, entrenamiento y comparación de modelos de clasificación, y validación contra partidos reales del Mundial 2026 en curso.
