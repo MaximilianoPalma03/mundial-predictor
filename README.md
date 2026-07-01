@@ -79,4 +79,4 @@ Python · pandas · numpy · scikit-learn · scipy · Jupyter Notebook
 
 ## Autor
 
-Pablo — [github.com/MaximilianoPalma03](https://github.com/MaximilianoPalma03)
+Maximiliano Palma — [github.com/MaximilianoPalma03](https://github.com/MaximilianoPalma03)
