@@ -1,0 +1,5 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,home_elo,away_elo,elo_diff,home_forma,away_forma,equipo_a,equipo_b,h2h_victorias_a,h2h_victorias_b
+2026-07-09,France,Morocco,,,FIFA World Cup,TBD,TBD,True,2062.0,1830.0,232.0,12.0,9.0,France,Morocco,3.0,0.0
+2026-07-10,Spain,Belgium,,,FIFA World Cup,TBD,TBD,True,2171.0,1849.0,322.0,11.0,11.0,Belgium,Spain,5.0,10.0
+2026-07-11,Norway,England,,,FIFA World Cup,TBD,TBD,True,1922.0,2042.0,-120.0,13.0,13.0,England,Norway,6.0,2.0
+2026-07-11,Argentina,Switzerland,,,FIFA World Cup,TBD,TBD,True,2113.0,1897.0,216.0,15.0,11.0,Argentina,Switzerland,4.0,0.0

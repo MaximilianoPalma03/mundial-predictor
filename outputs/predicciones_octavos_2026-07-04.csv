@@ -1,0 +1,9 @@
+date,home_team,away_team,pred_logistica,pred_rf
+2026-07-04,Canada,Morocco,home_win,home_win
+2026-07-04,Paraguay,France,away_win,away_win
+2026-07-05,Brazil,Norway,home_win,draw
+2026-07-05,Mexico,England,home_win,draw
+2026-07-06,Portugal,Spain,home_win,draw
+2026-07-06,United States,Belgium,home_win,home_win
+2026-07-07,Argentina,Egypt,home_win,home_win
+2026-07-07,Switzerland,Colombia,away_win,away_win

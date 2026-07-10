@@ -3,10 +3,10 @@ date,home_team,away_team,home_score,away_score,resultado,pred_logistica,pred_rf,
 2026-06-11,South Korea,Czech Republic,2.0,1.0,home_win,home_win,home_win,True,True
 2026-06-12,Canada,Bosnia and Herzegovina,1.0,1.0,draw,home_win,home_win,False,False
 2026-06-12,United States,Paraguay,4.0,1.0,home_win,away_win,away_win,False,False
+2026-06-13,Australia,Turkey,2.0,0.0,home_win,away_win,away_win,False,False
 2026-06-13,Qatar,Switzerland,1.0,1.0,draw,away_win,away_win,False,False
 2026-06-13,Brazil,Morocco,1.0,1.0,draw,home_win,draw,False,True
 2026-06-13,Haiti,Scotland,0.0,1.0,away_win,away_win,away_win,True,True
-2026-06-13,Australia,Turkey,2.0,0.0,home_win,away_win,away_win,False,False
 2026-06-14,Sweden,Tunisia,5.0,1.0,home_win,home_win,home_win,True,True
 2026-06-14,Netherlands,Japan,2.0,2.0,draw,away_win,away_win,False,False
 2026-06-14,Germany,Curaçao,7.0,1.0,home_win,home_win,home_win,True,True
@@ -19,31 +19,47 @@ date,home_team,away_team,home_score,away_score,resultado,pred_logistica,pred_rf,
 2026-06-16,Iraq,Norway,1.0,4.0,away_win,away_win,away_win,True,True
 2026-06-16,Argentina,Algeria,3.0,0.0,home_win,home_win,home_win,True,True
 2026-06-16,Austria,Jordan,3.0,1.0,home_win,home_win,home_win,True,True
-2026-06-17,England,Croatia,4.0,2.0,home_win,home_win,home_win,True,True
 2026-06-17,Ghana,Panama,1.0,0.0,home_win,away_win,away_win,False,False
+2026-06-17,England,Croatia,4.0,2.0,home_win,home_win,home_win,True,True
 2026-06-17,Uzbekistan,Colombia,1.0,3.0,away_win,away_win,away_win,True,True
 2026-06-17,Portugal,DR Congo,1.0,1.0,draw,home_win,home_win,False,False
 2026-06-18,Czech Republic,South Africa,1.0,1.0,draw,home_win,home_win,False,False
 2026-06-18,Mexico,South Korea,1.0,0.0,home_win,home_win,home_win,True,True
 2026-06-18,Switzerland,Bosnia and Herzegovina,4.0,1.0,home_win,home_win,home_win,True,True
 2026-06-18,Canada,Qatar,6.0,0.0,home_win,home_win,home_win,True,True
-2026-06-19,Turkey,Paraguay,0.0,1.0,away_win,home_win,home_win,False,False
 2026-06-19,Scotland,Morocco,0.0,1.0,away_win,away_win,away_win,True,True
 2026-06-19,Brazil,Haiti,3.0,0.0,home_win,home_win,home_win,True,True
 2026-06-19,United States,Australia,2.0,0.0,home_win,home_win,home_win,True,True
+2026-06-19,Turkey,Paraguay,0.0,1.0,away_win,home_win,home_win,False,False
+2026-06-20,Tunisia,Japan,0.0,4.0,away_win,away_win,away_win,True,True
+2026-06-20,Netherlands,Sweden,5.0,1.0,home_win,home_win,home_win,True,True
 2026-06-20,Germany,Ivory Coast,2.0,1.0,home_win,home_win,home_win,True,True
 2026-06-20,Ecuador,Curaçao,0.0,0.0,draw,home_win,home_win,False,False
-2026-06-20,Netherlands,Sweden,5.0,1.0,home_win,home_win,home_win,True,True
-2026-06-20,Tunisia,Japan,0.0,4.0,away_win,away_win,away_win,True,True
+2026-06-21,Belgium,Iran,0.0,0.0,draw,away_win,away_win,False,False
+2026-06-21,New Zealand,Egypt,1.0,3.0,away_win,away_win,away_win,True,True
 2026-06-21,Spain,Saudi Arabia,4.0,0.0,home_win,home_win,home_win,True,True
 2026-06-21,Uruguay,Cape Verde,2.0,2.0,draw,draw,home_win,True,False
-2026-06-21,Belgium,Iran,0.0,0.0,draw,away_win,draw,False,True
-2026-06-21,New Zealand,Egypt,1.0,3.0,away_win,away_win,away_win,True,True
-2026-06-22,Argentina,Austria,2.0,0.0,home_win,home_win,home_win,True,True
 2026-06-22,Jordan,Algeria,1.0,2.0,away_win,away_win,away_win,True,True
 2026-06-22,France,Iraq,3.0,0.0,home_win,home_win,home_win,True,True
 2026-06-22,Norway,Senegal,3.0,2.0,home_win,home_win,home_win,True,True
-2026-06-23,Colombia,DR Congo,1.0,0.0,home_win,home_win,home_win,True,True
+2026-06-22,Argentina,Austria,2.0,0.0,home_win,home_win,home_win,True,True
+2026-06-23,Panama,Croatia,0.0,1.0,away_win,away_win,away_win,True,True
 2026-06-23,England,Ghana,0.0,0.0,draw,home_win,home_win,False,False
 2026-06-23,Portugal,Uzbekistan,5.0,0.0,home_win,home_win,home_win,True,True
-2026-06-23,Panama,Croatia,0.0,1.0,away_win,away_win,away_win,True,True
+2026-06-23,Colombia,DR Congo,1.0,0.0,home_win,home_win,home_win,True,True
+2026-06-28,South Africa,Canada,0.0,1.0,away_win,away_win,away_win,True,True
+2026-06-29,Netherlands,Morocco,1.0,1.0,draw,away_win,away_win,False,False
+2026-06-29,Germany,Paraguay,1.0,1.0,draw,home_win,home_win,False,False
+2026-06-29,Brazil,Japan,2.0,1.0,home_win,home_win,home_win,True,True
+2026-06-30,Ivory Coast,Norway,1.0,2.0,away_win,away_win,away_win,True,True
+2026-06-30,France,Sweden,3.0,0.0,home_win,home_win,home_win,True,True
+2026-06-30,Mexico,Ecuador,2.0,0.0,home_win,home_win,home_win,True,True
+2026-07-01,Belgium,Senegal,3.0,2.0,home_win,home_win,home_win,True,True
+2026-07-01,United States,Bosnia and Herzegovina,2.0,0.0,home_win,home_win,home_win,True,True
+2026-07-01,England,DR Congo,2.0,1.0,home_win,home_win,home_win,True,True
+2026-07-02,Spain,Austria,3.0,0.0,home_win,home_win,home_win,True,True
+2026-07-02,Portugal,Croatia,2.0,1.0,home_win,home_win,home_win,True,True
+2026-07-03,Australia,Egypt,1.0,1.0,draw,away_win,draw,False,True
+2026-07-03,Switzerland,Algeria,2.0,0.0,home_win,home_win,home_win,True,True
+2026-07-03,Argentina,Cape Verde,3.0,2.0,home_win,home_win,home_win,True,True
+2026-07-03,Colombia,Ghana,1.0,0.0,home_win,home_win,home_win,True,True

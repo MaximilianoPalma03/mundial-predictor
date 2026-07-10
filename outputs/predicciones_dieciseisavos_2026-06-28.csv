@@ -10,7 +10,7 @@ date,home_team,away_team,pred_logistica,pred_rf
 2026-07-01,Belgium,Senegal,home_win,home_win
 2026-07-01,England,DR Congo,home_win,home_win
 2026-07-02,Portugal,Croatia,home_win,home_win
-2026-07-02,Spain,Austria,away_win,away_win
+2026-07-02,Spain,Austria,away_win,home_win
 2026-07-03,Australia,Egypt,home_win,draw
 2026-07-03,Switzerland,Algeria,home_win,home_win
 2026-07-03,Argentina,Cape Verde,home_win,home_win

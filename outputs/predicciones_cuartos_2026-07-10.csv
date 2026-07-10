@@ -1,0 +1,5 @@
+date,home_team,away_team,pred_logistica,pred_rf
+2026-07-09,France,Morocco,home_win,home_win
+2026-07-10,Spain,Belgium,home_win,draw
+2026-07-11,Norway,England,away_win,draw
+2026-07-11,Argentina,Switzerland,home_win,home_win
